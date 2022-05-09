@@ -15,10 +15,26 @@
         "deliveryMethod": "Moto",
         "driverLicense": "cnh-digital.jpg"
     },
-    "cpf_inv": {
+    "cpf_invalid": {
         "name": "John Doe",
         "document": "11111111111",
         "email": "john@doe.com",
+        "whatsapp": "1199999999",
+        "address": {
+            "postalCode": "74093250",
+            "street": "Avenida 136",
+            "number": "761",
+            "details": "",
+            "district": "Setor Sul",
+            "cityState": "Goiânia/GO"
+        },
+        "deliveryMethod": "Moto",
+        "driverLicense": "cnh-digital.jpg"
+    },
+    "email_invalid": {
+        "name": "John Doe",
+        "document": "03248532185",
+        "email": "johndoe.com.br",
         "whatsapp": "1199999999",
         "address": {
             "postalCode": "74093250",
